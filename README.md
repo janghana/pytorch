@@ -4,4 +4,4 @@
 ### machine learning study
 ### deep learning study
 
-#### upload the file that studying the python code
+#### Upload files to study python code
